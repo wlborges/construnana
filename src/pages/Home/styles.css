@@ -1,0 +1,13 @@
+.container{
+  justify-content: center;
+}
+.logo{
+  max-width: 500px;
+  width: 50%;
+  justify-content: center;
+}
+.title{
+  font-weight: 200;
+  margin-left: 550px;
+  margin-top: 50px;
+}
